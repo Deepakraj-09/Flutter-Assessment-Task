@@ -1,25 +1,38 @@
-# Flutter Assessment Task
+# 📱 Flutter Assessment Task
 
-## 📌 Project Overview
-
-This Flutter application is built as part of an assessment task. It demonstrates key concepts of Flutter development, including state management, UI layout, navigation, and API/data integration (if applicable). The app showcases a responsive and interactive mobile interface developed using Dart and Flutter SDK.
+A feature-rich Flutter application built as part of an assessment for the Flutter Developer position. It showcases effective use of **BLoC pattern**, **API integration**, **infinite scrolling**, **search**, and clean UI/UX practices.
 
 ---
 
-## 🚀 Setup Instructions
+## 📌 Project Overview
 
-Follow these steps to run the project locally:
+This app demonstrates the following key Flutter development skills:
 
-### Prerequisites
+- **User Management Interface** with dummy API data.
+- **Pagination & Infinite Scroll** for user listing.
+- **Search Functionality** to filter users by name.
+- **Nested API Data Fetching**: Users → Posts & Todos.
+- **Create Post Functionality** to locally add new posts.
+- **State Management** using `flutter_bloc` with event-driven architecture.
+- **Clean Code Practices** and **Proper Folder Structure**.
 
-- Flutter SDK (latest stable) installed
-- Dart SDK (usually comes with Flutter)
-- Android Studio or Visual Studio Code
-- An emulator or a connected device
+---
 
-### Steps
+## 🛠 Setup Instructions
 
-1. **Clone the repository or unzip the folder**
-   ```bash
-   git clone <repository-url>
-   cd Flutter-Assessment-Task
+### ✅ Prerequisites
+
+Ensure you have the following installed:
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Dart SDK (bundled with Flutter)
+- An IDE such as Android Studio, IntelliJ, or VS Code
+- A physical device or emulator (Android/iOS)
+
+---
+
+### 📥 Clone the Repository
+
+```bash
+git clone https://github.com/your-username/flutter-assessment-task.git
+cd flutter-assessment-task
