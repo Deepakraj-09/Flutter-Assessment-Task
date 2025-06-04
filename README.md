@@ -1,7 +1,5 @@
 # 📱 Flutter Assessment Task
 
-A feature-rich Flutter application built as part of an assessment for the Flutter Developer position. It showcases effective use of **BLoC pattern**, **API integration**, **infinite scrolling**, **search**, and clean UI/UX practices.
-
 ---
 
 ## 📌 Project Overview
@@ -35,4 +33,5 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/your-username/flutter-assessment-task.git
-cd flutter-assessment-task
+cd usermanagement
+Flutter Run 
